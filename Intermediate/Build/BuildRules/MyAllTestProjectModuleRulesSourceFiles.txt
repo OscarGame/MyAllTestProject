@@ -1,0 +1,3 @@
+D:\Work\WorkSpace\MyAllTestProject\Source\MyAllTestProject\MyAllTestProject.Build.cs
+D:\Work\WorkSpace\MyAllTestProject\Source\MyAllTestProject.Target.cs
+D:\Work\WorkSpace\MyAllTestProject\Source\MyAllTestProjectEditor.Target.cs

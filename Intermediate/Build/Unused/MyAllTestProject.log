@@ -1,0 +1,12 @@
+﻿  Parsing headers for MyAllTestProjectEditor
+    Running UnrealHeaderTool "D:\Work\WorkSpace\MyAllTestProject\MyAllTestProject.uproject" "D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\MyAllTestProjectEditor\Development\MyAllTestProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyAllTestProjectEditor in 6.8643202 seconds
+  Performing 4 actions (4 in parallel)
+  InterfaceAndAsynLoad.cpp
+  MyAllTestProject.generated.cpp
+  [3/4] Link UE4Editor-MyAllTestProject.dll
+  [4/4] Link UE4Editor-MyAllTestProject.lib
+    正在创建库 D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyAllTestProject.suppressed.lib 和对象 D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyAllTestProject.suppressed.exp
+    正在创建库 D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyAllTestProject.lib 和对象 D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyAllTestProject.exp
+  Deploying MyAllTestProjectEditor Win64 Development...
+  Total build time: 10.30 seconds (Local executor: 2.60 seconds)

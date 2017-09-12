@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MyAllTestProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FAC47577-9CCB-4D0A-BCC9-FDF002138DE8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MyAllTestProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MyAllTestProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{F52CB1EA-7B33-4B87-BF3E-8452249F70EF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MyAllTestProject">
+			<UniqueIdentifier>{EA5B9274-0AC4-4D0D-B878-315A57F0F708}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MyAllTestProject\AsynLoadLevelGameInstance.cpp">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\AsynLoadLevelGameInstance.h">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\MyAllTestProject\MyAllTestProject.Build.cs">
+			<Filter>Source\MyAllTestProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MyAllTestProject\MyAllTestProject.cpp">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\MyAllTestProject.h">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyAllTestProject\MyAllTestProjectCharacter.cpp">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\MyAllTestProjectCharacter.h">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyAllTestProject\MyAllTestProjectGameMode.cpp">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\MyAllTestProjectGameMode.h">
+			<Filter>Source\MyAllTestProject</Filter>
+		</ClInclude >
+		<Filter Include="Source\MyAllTestProject\AsynLoad">
+			<UniqueIdentifier>{E787229C-E0AC-40E7-A29D-61A6FD91D98C}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MyAllTestProject\AsynLoad\AsynLoadManger.cpp">
+			<Filter>Source\MyAllTestProject\AsynLoad</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\AsynLoad\AsynLoadManger.h">
+			<Filter>Source\MyAllTestProject\AsynLoad</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\MyAllTestProject\AsynLoad\IAsynLoadInterface.h">
+			<Filter>Source\MyAllTestProject\AsynLoad</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyAllTestProject\AsynLoad\InterfaceAndAsynLoad.cpp">
+			<Filter>Source\MyAllTestProject\AsynLoad</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\AsynLoad\InterfaceAndAsynLoad.h">
+			<Filter>Source\MyAllTestProject\AsynLoad</Filter>
+		</ClInclude >
+		<Filter Include="Source\MyAllTestProject\LoadBPFromPath">
+			<UniqueIdentifier>{BE226E5B-4F60-4C3B-84E6-558D701FFBA2}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MyAllTestProject\LoadBPFromPath\LoadBPFromPath.cpp">
+			<Filter>Source\MyAllTestProject\LoadBPFromPath</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyAllTestProject\LoadBPFromPath\LoadBPFromPath.h">
+			<Filter>Source\MyAllTestProject\LoadBPFromPath</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

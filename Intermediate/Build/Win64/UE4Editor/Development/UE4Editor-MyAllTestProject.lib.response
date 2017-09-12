@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyAllTestProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\AsynLoadLevelGameInstance.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\MyAllTestProject.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\MyAllTestProjectCharacter.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\MyAllTestProjectGameMode.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\AsynLoadManger.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\InterfaceAndAsynLoad.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\LoadBPFromPath.cpp.obj"
+"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\MyAllTestProject.generated.cpp.obj"
+"D:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyAllTestProject\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Work\WorkSpace\MyAllTestProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyAllTestProject.lib"
